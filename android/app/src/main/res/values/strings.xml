@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">Wishbox</string>
+    <string name="api_key">AIzaSyDCSE13I3b7-39Uk2IcYg5Uf4PG_1THvSc</string>
+    <string name="facebook_app_id">118391794993838</string>
+</resources>
